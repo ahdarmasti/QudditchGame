@@ -1,2 +1,2 @@
 # QudditchGame
-Quidditch game for udemny course
+Quidditch game for udemy course
